@@ -1,5 +1,5 @@
 document.getElementById("app").innerHTML = `
-<h1>Angualr JS
+<h1>Angualr JS Project
 </h1>
 <div>
   Look
