@@ -8,6 +8,10 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "@angular/material": "6.4.0",
+    "angular": "1.7.2",
+    "http-server": "0.11.1",
+    "mdi": "latest",
     "node": "10.7.0"
   },
   "devDependencies": {
